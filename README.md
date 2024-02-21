@@ -33,6 +33,13 @@ NOTA: el RPC que se utiliza en el ejemplo es Rate Limited, por lo tanto recomien
 - Solana Development Course : https://www.soldev.app/course
 - Curso en video: https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqyt
 
+# Documentacion de Solana Pay:
+
+- Documentacion Oficial : https://commercedocs.solanapay.com/
+- Github Oficial: https://github.com/solana-labs/solana-pay
+- Resumen en ingles: https://solanapay.com/solanapay101
+- Explicacion e Implementacion en NextJS : https://youtu.be/qLV87kLOHiY
+
 # Ganadores pasados de hackathones de Solana:
 
 - IGNITION : https://ignition.devpost.com/project-gallery
