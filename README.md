@@ -1,9 +1,17 @@
 # Solana-Mexico-Recursos
  Este repositorio es un base de datos de los recursos recomendados por Altaga para desarrollar en el ecosistema de Solana.
 
+# Documentacion oficial NextJS.
+
+- Link a la documentacion ofical, porfavor recuerda usar la documentacion de App Router, ya que el ejemplo esta basado en ella, NO en Pages Router.
+
+Link: https://nextjs.org/docs
+
+<img src="https://i.ibb.co/jkZrffQ/image.png">
+
 # Ejemplo de NextJS DApp:
 
-El ejemplo de NextJS provee una integracion rapida y sencilla de una Progressive Web DApp.
+El ejemplo de NextJS provee una integracion rapida y sencilla de una Progressive Web DApp, esto es open source puedes utilizarlo como mejor te parezca.
 
 Caracteristicas:
 
