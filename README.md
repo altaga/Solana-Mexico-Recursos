@@ -1,9 +1,9 @@
 # Solana-Mexico-Recursos
  Este repositorio es un base de datos de los recursos recomendados por Altaga para desarrollar en el ecosistema de Solana.
 
-# Documentacion oficial NextJS.
+# Documentación oficial NextJS.
 
-- Link a la documentacion ofical, porfavor recuerda usar la documentacion de App Router, ya que el ejemplo esta basado en ella, NO en Pages Router.
+- Link a la documentación oficial, por favor recuerda usar la documentación de App Router, ya que el ejemplo esta basado en ella, NO en Pages Router.
 
 Link: https://nextjs.org/docs
 
@@ -11,15 +11,15 @@ Link: https://nextjs.org/docs
 
 # Ejemplo de NextJS DApp:
 
-El ejemplo de NextJS provee una integracion rapida y sencilla de una Progressive Web DApp, esto es open source puedes utilizarlo como mejor te parezca.
+El ejemplo de NextJS provee una integración rápida y sencilla de una Progressive Web DApp, esto es open source puedes utilizarlo como mejor te parezca.
 
-Caracteristicas:
+Características:
 
-- Conexion a una wallet mediante el WalletAdapter.
-- Visualizacion de address y balance.
-- Obtencion de Airdrop (DEVNET).
+- Conexión a una wallet mediante el WalletAdapter.
+- Visualización de address y balance.
+- Obtención de Airdrop (DEVNET).
 - Mandar transacciones sencillas de SOL.
-- Interaccion con programa memo.
+- Interacción con programa memo.
 
 [CLICK HERE](./nextjs-example/README.md)
 
@@ -32,21 +32,21 @@ NOTA: el RPC que se utiliza en el ejemplo es Rate Limited, por lo tanto recomien
 - https://www.helius.dev/
 - https://syndica.io/
 
-# Documentacion oficial de Solana:
+# Documentación oficial de Solana:
 
-- Documentacion General: https://solana.com/docs
+- Documentación General: https://solana.com/docs
 
 # Curso de Solana General:
 
 - Solana Development Course : https://www.soldev.app/course
 - Curso en video: https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqyt
 
-# Documentacion de Solana Pay:
+# Documentación de Solana Pay:
 
-- Documentacion Oficial : https://commercedocs.solanapay.com/
+- Documentación Oficial : https://commercedocs.solanapay.com/
 - Github Oficial: https://github.com/solana-labs/solana-pay
 - Resumen en ingles: https://solanapay.com/solanapay101
-- Explicacion e Implementacion en NextJS : https://youtu.be/qLV87kLOHiY
+- Explicación e Implementación en NextJS : https://youtu.be/qLV87kLOHiY
 
 # Ganadores pasados de hackathones de Solana:
 
