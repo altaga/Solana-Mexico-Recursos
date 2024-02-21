@@ -3,15 +3,15 @@
 
 # Ejemplo de NextJS DApp:
 
-El ejemplo de NextJS provee una integracion rapida y sencilla de una Progressive Web DApp:
+El ejemplo de NextJS provee una integracion rapida y sencilla de una Progressive Web DApp.
 
 Caracteristicas:
 
-- Conexion a una wallet.
+- Conexion a una wallet mediante el WalletAdapter.
 - Visualizacion de address y balance.
 - Obtencion de Airdrop (DEVNET).
 - Mandar transacciones sencillas de SOL.
-- Interaccion con Programs.
+- Interaccion con programa memo.
 
 [CLICK HERE](./nextjs-example/README.md)
 
