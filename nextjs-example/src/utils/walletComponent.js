@@ -1,5 +1,5 @@
 "use client";
-import "@/app/styles/styles.css";
+import "@/styles/styles.css";
 import { ThemeProvider } from "@emotion/react";
 import {
   ConnectionProvider,
@@ -7,7 +7,7 @@ import {
 } from "@solana/wallet-adapter-react";
 import { WalletModalProvider } from "@solana/wallet-adapter-react-ui";
 import { useMemo } from "react";
-import theme from "@/app/styles/theme";
+import theme from "@/styles/theme";
 
 export default function WalletComponent({ children }) {
   const wallets = useMemo(() => [], []);

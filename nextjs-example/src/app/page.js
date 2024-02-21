@@ -5,9 +5,11 @@ import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
 import { useEffect } from "react";
 
 export default function Home() {
+  // Detect if wallet is connected
   const { publicKey } = useWallet();
 
   useEffect(() => {
+    // If wallet is connected, redirect to address
     if (publicKey) {
       window.location.href = `/address`;
     }
@@ -46,6 +48,9 @@ export default function Home() {
         >
           <div>{"Connect your wallet"}</div>
         </h2>
+        {
+          // Wallet Multi Button, this component create an interface for the user to connect their wallet
+        }
         <WalletMultiButton />
       </div>
     </div>
