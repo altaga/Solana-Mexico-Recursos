@@ -1,0 +1,20 @@
+/* if device has a touch screen */
+@media (any-pointer: coarse) {
+  html,
+  body {
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+  }
+}
+
+/* if device has no touch screen */
+@media (any-pointer: fine) {
+  html,
+  body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+  }
+}
